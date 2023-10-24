@@ -1,2 +1,2 @@
 # pdv
-projeto para ponto de vendas
+Sistema para ponto de vendas
